@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+	<!--
+	<row>
+		<button text="Fast win print" ontap="winPrint" />
+	</row>
+	<row>
+		<button text="Fast win ctrl print" ontap="winCtrlPrint" />
+	</row>
+	<row>
+		<button text="Fast win fn print" ontap="winFnPrint" />
+	</row>
+	<row>
+		<button text="Fast win shift s" ontap="winShiftS" />
+	</row>
+	<row>
+		<button text="Slow print" ontap="print" />
+	</row>
+	<row>
+		<button text="Slow snapshot" ontap="snapshot" />
+	</row>
+	<row>
+		<button text="Sniptool" ontap="sniptool" />
+	</row>
+	-->
+	<row>
+		<button text="Screenshot" ontap="winShiftS" />
+	</row>
+</layout>
